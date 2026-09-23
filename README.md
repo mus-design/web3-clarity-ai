@@ -71,7 +71,7 @@ For a deeper look at the engineering and product decisions behind Web3 Clarity A
 - [How It Works](docs/how-it-works.md)
 - [Engineering Challenges](docs/engineering-challenges.md)
 - [Product Walkthrough](docs/product-walkthrough.md)
-
+- [Development Log](docs/development-log.md)
 ---
 
 ##  Product Screenshots

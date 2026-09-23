@@ -36,7 +36,7 @@ The application supports both **direct text analysis** and **URL-based analysis*
 * Row Level Security
 * URL validation and SSRF protection
 
-##The Problem
+## The Problem
 
 Web3 communication often contains technical language that creates a gap between the people building a product and the people trying to understand it.
 

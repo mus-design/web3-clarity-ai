@@ -3,7 +3,7 @@
 ### AI-powered communication intelligence for Web3 products
 
 Web3 Clarity AI helps Web3 founders, product teams, developers, and innovators understand how clearly their products communicate with different audiences.
-
+[🚀 Live Demo](https://web3-clarity-ai-981954979086.europe-west1.run.app) · [💻 GitHub](https://github.com/mus-design/web3-clarity-ai)
 It analyzes Web3 messaging across six dimensions:
 
 **Clarity · Readability · Value Proposition · Audience Fit · Trust & Credibility · Actionability**

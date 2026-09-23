@@ -61,7 +61,24 @@ The user provides content, selects the intended audience and communication goal,
 Rather than treating AI as a black-box writing tool, the application is designed to make the reasoning behind the analysis more visible through evidence and clearly defined evaluation dimensions.
 
 
+---
 
+##  Documentation
+
+For a deeper look at the engineering and product decisions behind Web3 Clarity AI:
+
+- [Architecture](docs/architecture.md)
+- [How It Works](docs/how-it-works.md)
+- [Engineering Challenges](docs/engineering-challenges.md)
+- [Product Walkthrough](docs/product-walkthrough.md)
+
+---
+
+##  Product Screenshots
+
+The application interface is documented through the screenshots included in this repository.
+
+[View all screenshots](screenshots/)
 
 
 

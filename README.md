@@ -2,8 +2,42 @@
 
 ### AI-powered communication intelligence for Web3 products
 
+[🚀 Live Demo](https://web3-clarity-ai-981954979086.europe-west1.run.app) · [💻 GitHub](https://github.com/mus-design/web3-clarity-ai) · [📚 Documentation](docs/)
+
+---
+
+## 📌 Project Snapshot
+
+| | |
+|---|---|
+| **Project Type** | AI / Web3 / Full-Stack SaaS |
+| **Status** | Live MVP |
+| **Primary Focus** | Web3 communication intelligence |
+| **AI** | Google Gemini |
+| **Frontend** | React + TypeScript |
+| **Backend & Data** | Supabase |
+| **Authentication** | Supabase Auth |
+| **Database Security** | Row Level Security (RLS) |
+| **Security** | URL validation, sanitization & SSRF protections |
+
+## ✨ Key Features
+
+- AI-powered Web3 communication analysis
+- Six-dimension communication scoring
+- Audience-specific analysis
+- Goal-specific analysis
+- Evidence-based recommendations
+- Confusion heatmap
+- Text and URL analysis
+- Authentication and saved analyses
+- Search and filtering of analysis history
+- Supabase persistence and Row Level Security
+- URL validation and SSRF protections
+
+---
+
+## 🚀 Project Overview
 Web3 Clarity AI helps Web3 founders, product teams, developers, and innovators understand how clearly their products communicate with different audiences.
-[🚀 Live Demo](https://web3-clarity-ai-981954979086.europe-west1.run.app) · [💻 GitHub](https://github.com/mus-design/web3-clarity-ai)
 It analyzes Web3 messaging across six dimensions:
 
 **Clarity · Readability · Value Proposition · Audience Fit · Trust & Credibility · Actionability**
@@ -11,30 +45,13 @@ It analyzes Web3 messaging across six dimensions:
 The goal is simple:
 
 > **Turn technical complexity into communication people can understand, trust, and act on.**
-
 ---
-
-## 🚀 Project Overview
 
 Web3 products can be technically sophisticated while their messaging remains difficult for users, customers, investors, and developers to understand.
 
 I built Web3 Clarity AI to explore how artificial intelligence can be used not just to rewrite content, but to **diagnose communication problems, provide evidence from the original content, and generate actionable recommendations.**
 
 The application supports both **direct text analysis** and **URL-based analysis** of Web3 websites and documentation.
-
-### Core capabilities
-
-* AI-powered communication analysis
-* Six-dimension scoring framework
-* Audience-specific analysis
-* Goal-specific analysis
-* Evidence-based recommendations
-* Confusion heatmap
-* Web3 website/URL analysis
-* Authentication and persistent analysis history
-* Supabase database integration
-* Row Level Security
-* URL validation and SSRF protection
 
 ## The Problem
 
